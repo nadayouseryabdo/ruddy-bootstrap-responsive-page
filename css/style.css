@@ -1,0 +1,28 @@
+header{
+   min-height: 100vh;
+    background: url(../images/bg.jpg) no-repeat center/cover;
+}
+
+.color1{
+    background-color: #03A688;
+}
+.color2{
+    background-color: #F25A38;
+}
+nav a:hover {
+    color:white !important;
+    background-color: #F25A38;
+}
+.proicon{
+    min-height: 150px;
+}
+.orange{
+    min-height:200px;
+
+}
+.mapping{
+    min-height: 300px;
+}
+footer{
+    min-height: 100px;
+}
